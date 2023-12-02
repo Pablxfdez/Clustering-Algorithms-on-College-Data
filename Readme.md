@@ -20,8 +20,14 @@ The repository includes several Python scripts that collectively address the pro
 4. **Predictive Analysis**: A script that uses the clustering results to predict certain attributes or affiliations of individuals based on their coordinates in the dataset.
 
 ### Repository Contents
-- **FernandezdelAmoP_PRPAPractica2.pdf**: A comprehensive document detailing the project's objectives, methodology, and the theoretical background of the techniques used.
-- Python scripts implementing the various aspects of the project, as described above.
+- **FernandezdelAmoP_Practica2_Corrected.pdf**: This document provides a comprehensive overview of the project, including objectives, methodology, and theoretical background. It serves as the main report detailing the findings and analysis conducted in the study.
+
+- **Grados_en_la_facultad_matematicas.txt**: This text file contains data regarding the affiliation of individuals to various degree programs within the Faculty of Mathematics. It is used as part of the dataset for the clustering analysis.
+
+- **Personas_en_la_facultad_matematicas.txt**: This file includes data on the stress levels and affinity for rock music of individuals from the Faculty of Mathematics. It forms a crucial part of the dataset for the clustering exercises.
+
+- **FernandezdelAmoP_Practica2.py**: Code used for the project.
 
 ### Purpose and Usage
 This repository serves as a resource for understanding and implementing clustering techniques in computational geometry. It is particularly useful for students, researchers, and practitioners interested in data analysis, pattern recognition, and machine learning in the context of behavioral studies. The code provides a practical framework for applying clustering algorithms to real-world datasets.
+
